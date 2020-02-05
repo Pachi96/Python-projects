@@ -1,0 +1,7 @@
+This project is a GUI that allows the user to create and
+manage a database that gathers information about patients
+of a hospital. The artifact file that is created can be 
+monitored using Database specialized software, such as
+DB Browser
+
+Libraries used: Tkinter and sqlite3

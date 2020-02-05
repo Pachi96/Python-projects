@@ -1,0 +1,4 @@
+This project is the implementation of a Graphical User Interface
+that simulates a one line calculator. 
+
+Tkinter library is used to create the interface

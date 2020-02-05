@@ -1,0 +1,9 @@
+This program is intended to be used on a Raspberry Pi.
+It allows the user to manipulate the position of the
+servo motors of a robotic arm, wether by moving a scroll
+bar or by inserting in a text box the angle (0 - 180º)
+to which the motor has to be positioned.
+
+The GUI is implemented with the library guizero, and the
+mechanism that makes the manipulation of the position of 
+the motors possible is the PWM pins of a Raspberry Pi
